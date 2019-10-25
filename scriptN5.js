@@ -152,3 +152,11 @@ document.querySelector('#but5').onclick = () => {
     }
 
 }
+
+dociment.querySelector('#but6').onclick = ()=>{
+	if(w==0){
+
+	}else{
+		
+	}
+}
