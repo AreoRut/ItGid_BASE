@@ -153,14 +153,3 @@ document.querySelector('#but5').onclick = () => {
 
 }
 
-dociment.querySelector('#but6').onclick = ()=>{
-	console.log(document.querySelector('#inbut5').value);
-    let radioInput = document.querySelector('#inbut5');
-    console.log(radioInput.checked);
-    if (radioInput.checked) {
-}
-
-document.querySelector('#but6').onclick = () => {
-        alert(document.querySelector('#intext').value);
-
-    }
