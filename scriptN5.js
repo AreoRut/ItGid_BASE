@@ -159,3 +159,8 @@ dociment.querySelector('#but6').onclick = ()=>{
     console.log(radioInput.checked);
     if (radioInput.checked) {
 }
+
+document.querySelector('#but6').onclick = () => {
+        alert(document.querySelector('#intext').value);
+
+    }
